@@ -1,3 +1,0 @@
-- I discovered #Cryptocurrency at a very earlier stage in 2009. I was browsing about new #technologies and I found some #Bitcoin articles. At that time I wasn't so expert, I never installed #Linux OS yet in my life. Mixing financial with techs was scary at that time. I waited few years before my first purchase (I lost by a mistake).
-	- [[Dec 31st, 2025]] test di pensiero aggiornato
--

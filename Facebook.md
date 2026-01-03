@@ -1,2 +1,0 @@
-- Facebook is one step always a head, via #React.js, but also with latest #LLM open sourced techs.
--

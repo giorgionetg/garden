@@ -1,6 +1,7 @@
 # =========================
 # Logseq (internals)
 # =========================
+.stfolder/
 .logseq/
 logseq/bak/
 logseq/cache/
