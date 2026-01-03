@@ -1,0 +1,23 @@
+public:: true
+
+- web dev area [[Web Development]]
+	- #Frontend: #Tailwindcss, #ShadCN, #DaisyUI, #Astro, #Html, #Css, #Javascript.
+	- #Backend: #Php, #Nodejs, #DB, #Docker, #Directus, #Strapi
+	- #Fullstack: #Docker, #Nodejs, #Typescript, #JavaScript, #Nextjs, #React.js
+- cryptocurrency area [[Crypto Currency]]
+- Gaming Area [[Gaming Area]]
+- 3D Graphic [[3D Graphic]]
+- LLM [[LLM]]
+- StableDiffusion
+- Works & Jobs:
+	- [[We-Com SpA]]
+	- [[Wonderland Engine]]
+	- [[Elettronica SpA]]
+	- [[Infinity Edge srl]]
+	- [[Creasys srl]]
+	- [[Italia Solidale Onlus]]
+	- [[Elettronica SpA]]
+	- [[Light By Advertising & Marketing]] (stage)
+- Formations:
+	- Communication, Marketing of new Media (Lumsa, Bachelor Degree)
+	- Scientific High School
